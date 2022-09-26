@@ -1,0 +1,15 @@
+{
+  "name": "V88Vin ",
+  "theme": "V88",
+  "version": "1.1.0",
+  "description": "Rik88 Live Cổng Game Đổi Thưởng Uy Tín",
+  "keywords": [
+    "rik88",
+    "rik88 live"
+  ],
+  "repository": "https://v88app.net/",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
