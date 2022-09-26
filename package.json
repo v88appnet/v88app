@@ -10,7 +10,7 @@
     "v88 link",
     "v88vin"
   ],
-  "repository": "https://v88app.net/",
+  "repository": "v88app",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
