@@ -11,7 +11,7 @@
     "v88vin"
   ],
   "repository": "v88app",
-  "license": "MIT",
+  "license": "v88",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
